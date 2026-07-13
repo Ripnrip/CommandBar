@@ -1,0 +1,9 @@
+{
+  "vaults": [
+    {
+      "name": "default",
+      "path": "~/Library/Mobile Documents/iCloud~md~obsidian/Documents/Brain-System",
+      "description": "Main personal vault (Brain System)"
+    }
+  ]
+}

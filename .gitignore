@@ -1,0 +1,25 @@
+# Swift Package Manager / Xcode build artifacts
+.build/
+.swiftpm/xcode/
+.swiftpm/configuration/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# Real (non-example) local configuration — never commit
+vaults.json
+wifi-config.json
+*.local.json
+
+# Secrets
+*.pem
+*.key
+.env
+.env.*
+
+# macOS
+.DS_Store
+._*
+
+# Logs
+*.log

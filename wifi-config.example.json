@@ -1,0 +1,33 @@
+{
+  "favoriteNetworks": [
+    {
+      "ssid": "Home WiFi",
+      "password": "",
+      "isPrimary": true,
+      "description": "Main home network"
+    },
+    {
+      "ssid": "Office WiFi", 
+      "password": "",
+      "isPrimary": false,
+      "description": "Work network"
+    },
+    {
+      "ssid": "iPhone Hotspot",
+      "password": "",
+      "isPrimary": false,
+      "description": "Personal hotspot"
+    },
+    {
+      "ssid": "Coffee Shop WiFi",
+      "password": "",
+      "isPrimary": false,
+      "description": "Favorite cafe"
+    }
+  ],
+  "settings": {
+    "autoConnect": true,
+    "showSignalStrength": true,
+    "scanOnRefresh": false
+  }
+}
