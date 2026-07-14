@@ -9,7 +9,7 @@
     <key>CFBundleDisplayName</key>
     <string>CommandBar</string>
     <key>CFBundleIdentifier</key>
-    <string>com.gurisingh.commandbar</string>
+    <string>com.example.commandbar</string>
     <key>CFBundleVersion</key>
     <string>1</string>
     <key>CFBundleShortVersionString</key>
